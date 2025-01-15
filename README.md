@@ -23,18 +23,7 @@ Ensure you have the following installed on your system:
 - TensorFlow/Keras
 - Other dependencies listed in `requirements.txt`
 
-Interview-Prediction-Using-Artificial-Neural-Networks/
-├── app.py                  # Main Flask application
-├── model/
-│   ├── ann_model.h5        # Pre-trained ANN model
-│   └── model_training.ipynb # Notebook for model training
-├── static/
-│   ├── css/                # CSS files for styling
-│   └── js/                 # JavaScript files
-├── templates/
-│   ├── index.html          # Main HTML page
-│   └── result.html         # Result page
-└── README.md               # Project documentation
+
 ## How It Works
 
 1. **Model Training**: The ANN model was trained on a labeled dataset containing features like education, experience, and other candidate attributes.
