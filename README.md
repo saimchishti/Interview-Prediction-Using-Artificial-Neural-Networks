@@ -45,9 +45,8 @@ This repository contains a project aimed at predicting job eligibility for sales
    ```
 
 2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+  
+   
 
 3. Run the script:
    ```bash
